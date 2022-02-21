@@ -1,8 +1,8 @@
 #include <iostream>
-#include "TicTacToe.cpp";
+#include "Game.h"
 
 int main()
 {
-    TicTacToe::Run();
+    Game::Run();
     return 0;
 }
