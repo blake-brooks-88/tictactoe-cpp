@@ -5,7 +5,7 @@ class Board
 {
 public:
 	Board();
-	void print();
+	void printSelf();
 //member functions 
 private:
 	std::vector<std::vector<char>> getEmptyBoard();	

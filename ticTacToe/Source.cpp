@@ -3,6 +3,6 @@
 
 int main()
 {
-    Game::Run();
+    Game newGame;
     return 0;
 }
